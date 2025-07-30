@@ -65,3 +65,7 @@ Guided 30+ community college students transitioning to CS programs
 
 🏅 HACE University Leadership Program – Participant
 Developed skills in networking, public speaking, and personal branding
+
+
+www.linkedin.com/in/aespinosa54
+📧 Contact Email: angel.espinosa2211@gmail.com
