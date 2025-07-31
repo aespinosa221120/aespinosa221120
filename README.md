@@ -46,6 +46,10 @@ Built classification models on structured data
 Learned foundational ML concepts: train-test split, accuracy, cross-validation, hyperparameter tuning
 Tools: Python, pandas, NumPy, scikit-learn
 
+🤖 ML Project - AirBNB Listing Analysis
+📚 Break Through Tech AI Program: ML Foundations
+https://github.com/aespinosa221120/airbnb-listing-analysis.git
+
 🛠 Tech Stack
 Languages: Python, Java, HTML, JavaScript (basic)
 Data Science: Pandas, NumPy, scikit-learn, spaCy, TensorFlow (intro)
