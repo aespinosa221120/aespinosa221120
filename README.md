@@ -39,6 +39,7 @@ Tools: HTML, CSS, JavaScript, Git, Figma
 
 🤖 ML Foundations Capstone – ML Classifier Project
 📚 Break Through Tech AI Program: ML Foundations
+https://github.com/aespinosa221120/ml-foundations-census-income.git
 
 Built classification models on structured data
 
